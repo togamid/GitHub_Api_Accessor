@@ -1,0 +1,1 @@
+Kopie der OWASP dependency-check CLI Version hier einfügen
